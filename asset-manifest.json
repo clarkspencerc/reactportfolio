@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.89f7f3ee.css",
+    "main.js": "/reactportfolio/static/js/main.5ec2211c.js",
+    "static/js/787.e29dc422.chunk.js": "/reactportfolio/static/js/787.e29dc422.chunk.js",
+    "static/media/profile.JPG": "/reactportfolio/static/media/profile.64dbf6516259b227bc64.JPG",
+    "static/media/horiseon-marketing.png": "/reactportfolio/static/media/horiseon-marketing.22efe25550917a223caf.png",
+    "static/media/run-buddy.png": "/reactportfolio/static/media/run-buddy.c8be4e9248e4de46fc33.png",
+    "static/media/afterparty.png": "/reactportfolio/static/media/afterparty.fa64d21b4164e8b2a82a.png",
+    "static/media/whattowatch.png": "/reactportfolio/static/media/whattowatch.038b15ecabc675034b0b.png",
+    "static/media/fitness_tracker.png": "/reactportfolio/static/media/fitness_tracker.b3189b561aae359238f1.png",
+    "static/media/robot-challenger.png": "/reactportfolio/static/media/robot-challenger.1ab9f08e81872355b15f.png",
+    "static/media/logo.svg": "/reactportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactportfolio/index.html",
+    "main.89f7f3ee.css.map": "/reactportfolio/static/css/main.89f7f3ee.css.map",
+    "main.5ec2211c.js.map": "/reactportfolio/static/js/main.5ec2211c.js.map",
+    "787.e29dc422.chunk.js.map": "/reactportfolio/static/js/787.e29dc422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89f7f3ee.css",
+    "static/js/main.5ec2211c.js"
+  ]
+}
