@@ -16,7 +16,7 @@ I learned how to build and deploy a react app and use some of the different pack
 
 
 ## Link to deployed app
-
+[Deployed app](https://clarkspencerc.github.io/)
 
 ## Contributors
 
