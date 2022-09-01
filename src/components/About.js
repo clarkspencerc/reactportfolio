@@ -10,8 +10,8 @@ export default function About() {
 
             <section className="hero">
                 <div className="hero-text">
-                    <h2>I organize chaos through clarification and automation</h2>
-                    <p>I'm a business consultant and full stack developer who loves building scalable processes and web apps. </p>
+                    <h2>Beaches. Boats. and Slopes.</h2>
+                    <p>When I'm not working or building a website then you'll find me at the beach, behind a boat, or on the ski slopes </p>
                 </div>
                 <div className="hero-img">
                     <img src={selfPortrait} style={{ width: "10%"}} alt="Man standing on the beach in a black tux " />
@@ -20,9 +20,9 @@ export default function About() {
             
             <section id="about-me" className="about">
                 <div>
-                    <h2 className="section-title flex-row">Who I am</h2>
+                    <h4>As a business consultant and full stack developer I</h4>
                     <p>
-                        I'm passionate about ongoing improvement and data-driven decisions. <br />
+                        am passionate about ongoing improvement and data-driven decisions. <br />
                         I help businesses build their workflows, manage their projects, and increase their overall effectivness. <br />
                         I’m motivated by results and potential, if you have either of these then lets talk! <br />
                         I express my creativity through the apps I make both on the computer and in the kitchen.
